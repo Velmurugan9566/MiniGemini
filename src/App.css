@@ -1,0 +1,24 @@
+#root{
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+.voicebtn,.searchbtn,.clrbtn,.speakbtn{
+  width: 100px;
+  height: 30px;
+  color:black;
+  background-color: aqua;
+  border-radius: 5%;
+}
+.box-container{
+  align-items: center;
+  justify-content: center;
+}
+.inputbox{
+  width: 200px;
+  height: 40px;
+  border-radius: 5%;
+  padding: 5px;
+  scrollbar-width: thin;
+  overflow-y:scroll;
+}
